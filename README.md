@@ -1,6 +1,6 @@
 # Meu-primeiro-repo 🗂️
 
-Atividade da SPTech 📚
+#### Atividade da SPTech 📚
 
 🔸Meu primeiro repositório no GitHub;
 
