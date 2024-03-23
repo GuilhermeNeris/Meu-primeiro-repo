@@ -1,7 +1,9 @@
-# Meu-primeiro-repo
-Meu primeiro repositório no GitHub
+# Meu-primeiro-repo 🗂️
 
-Alterando remotamente o repositorio
+Atividade da SPTech 📚
 
+🔸Meu primeiro repositório no GitHub;
 
-Alterando localmente o repositorio.
+🔸Alterando remotamente o repositorio;
+
+🔸Alterando localmente o repositorio.
